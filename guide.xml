@@ -1,0 +1,1192 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="TNT">
+    <display-name lang="pt">TNT</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Megapix">
+    <display-name lang="pt">Megapix</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Megapix HD">
+    <display-name lang="pt">Megapix HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Space HD">
+    <display-name lang="pt">Space HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Space">
+    <display-name lang="pt">Space</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Cinemax">
+    <display-name lang="pt">Cinemax</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Prime Box Brazil">
+    <display-name lang="pt">Prime Box Brazil</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Studio Universal">
+    <display-name lang="pt">Studio Universal</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Studio Universal HD">
+    <display-name lang="pt">Studio Universal HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Paramount">
+    <display-name lang="pt">Paramount</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="TCM">
+    <display-name lang="pt">TCM</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Telecine Premium">
+    <display-name lang="pt">Telecine Premium</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Telecine Premium SD [Brazil]">
+    <display-name lang="pt">Telecine Premium SD [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Telecine Premium HD">
+    <display-name lang="pt">Telecine Premium HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Telecine Action">
+    <display-name lang="pt">Telecine Action</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Telecine Touch">
+    <display-name lang="pt">Telecine Touch</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Telecine Action SD [Brazil]">
+    <display-name lang="pt">Telecine Action SD [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Telecine Fun">
+    <display-name lang="pt">Telecine Fun</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Telecine Pipoca">
+    <display-name lang="pt">Telecine Pipoca</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Telecine Cult">
+    <display-name lang="pt">Telecine Cult</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="HBO">
+    <display-name lang="pt">HBO</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="HBO 2">
+    <display-name lang="pt">HBO 2</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="HBO Plus">
+    <display-name lang="pt">HBO Plus</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="HBO Plus*e">
+    <display-name lang="pt">HBO Plus*e</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="HBO Family">
+    <display-name lang="pt">HBO Family</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="HBO Signature">
+    <display-name lang="pt">HBO Signature</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Max UP">
+    <display-name lang="pt">Max UP</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Max">
+    <display-name lang="pt">Max</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Max Prime">
+    <display-name lang="pt">Max Prime</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Max Prime*e">
+    <display-name lang="pt">Max Prime*e</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Playboy TV">
+    <display-name lang="pt">Playboy TV</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Sextreme">
+    <display-name lang="pt">Sextreme</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Venus">
+    <display-name lang="pt">Venus</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Sexy Hot">
+    <display-name lang="pt">Sexy Hot</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="NET TV HD">
+    <display-name lang="pt">NET TV HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Globo HD">
+    <display-name lang="pt">Globo HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Rede TV HD">
+    <display-name lang="pt">Rede TV HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Band HD">
+    <display-name lang="pt">Band HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="SBT HD">
+    <display-name lang="pt">SBT HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Record HD">
+    <display-name lang="pt">Record HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Cultura HD">
+    <display-name lang="pt">Cultura HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Off HD">
+    <display-name lang="pt">Off HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="SporTV 3 HD">
+    <display-name lang="pt">SporTV 3 HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="SporTV 2 HD">
+    <display-name lang="pt">SporTV 2 HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="SporTV HD">
+    <display-name lang="pt">SporTV HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="GloboNews HD">
+    <display-name lang="pt">GloboNews HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="GNT HD">
+    <display-name lang="pt">GNT HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Multishow HD">
+    <display-name lang="pt">Multishow HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Viva HD">
+    <display-name lang="pt">Viva HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Mais Globosat HD">
+    <display-name lang="pt">Mais Globosat HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="E! HD">
+    <display-name lang="pt">E! HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="TLC HD">
+    <display-name lang="pt">TLC HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="FOOD NETWORK HD">
+    <display-name lang="pt">FOOD NETWORK HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Discovery Home &amp; Health HD">
+    <display-name lang="pt">Discovery Home &amp; Health HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="ESPN Brasil HD">
+    <display-name lang="pt">ESPN Brasil HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="ESPN HD">
+    <display-name lang="pt">ESPN HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="ESPN+ HD">
+    <display-name lang="pt">ESPN+ HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Fox Sports HD">
+    <display-name lang="pt">Fox Sports HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="FOX Sports 2 HD">
+    <display-name lang="pt">FOX Sports 2 HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Band Sports HD">
+    <display-name lang="pt">Band Sports HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="EI Maxx HD">
+    <display-name lang="pt">EI Maxx HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="EI Maxx 2 HD">
+    <display-name lang="pt">EI Maxx 2 HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="National Geographic HD">
+    <display-name lang="pt">National Geographic HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Discovery HD">
+    <display-name lang="pt">Discovery HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Animal Planet HD">
+    <display-name lang="pt">Animal Planet HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="The History Channel HD">
+    <display-name lang="pt">The History Channel HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Discovery Turbo HD">
+    <display-name lang="pt">Discovery Turbo HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="BBC Earth HD">
+    <display-name lang="pt">BBC Earth HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="NATGEO WILD HD">
+    <display-name lang="pt">NATGEO WILD HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Discovery Theater HD">
+    <display-name lang="pt">Discovery Theater HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Discovery world HD">
+    <display-name lang="pt">Discovery world HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="H2 HD">
+    <display-name lang="pt">H2 HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Discovery Kids HD">
+    <display-name lang="pt">Discovery Kids HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Gloob HD">
+    <display-name lang="pt">Gloob HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Disney Channel HD">
+    <display-name lang="pt">Disney Channel HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Nickelodeon HD">
+    <display-name lang="pt">Nickelodeon HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Cartoon HD">
+    <display-name lang="pt">Cartoon HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Bis HD [Brazil]">
+    <display-name lang="pt">Bis HD [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="MTV HD">
+    <display-name lang="pt">MTV HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="VH1 HD">
+    <display-name lang="pt">VH1 HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <programme start="20191120002400 -0400" stop="20191120021000 -0400" channel="TNT">
+    <title lang="pt">John Wick</title>
+    <sub-title lang="pt">De Volta ao Jogo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191120021000 -0400" stop="20191120040900 -0400" channel="TNT">
+    <title lang="pt">Aliança do Crime</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191120040900 -0400" stop="20191120044600 -0400" channel="TNT">
+    <title lang="pt">Hollywood One on One</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191120044600 -0400" stop="20191120063000 -0400" channel="TNT">
+    <title lang="pt">Hollywood One on One</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191120063000 -0400" stop="20191120080900 -0400" channel="TNT">
+    <title lang="pt">A Verdade Nua e Crua</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191120080900 -0400" stop="20191120102800 -0400" channel="TNT">
+    <title lang="pt">Mar em Fúria</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191120102800 -0400" stop="20191120122700 -0400" channel="TNT">
+    <title lang="pt">Corpo Fechado</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191120122700 -0400" stop="20191120143000 -0400" channel="TNT">
+    <title lang="pt">Os Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191120143000 -0400" stop="20191120161500 -0400" channel="TNT">
+    <title lang="pt">Fúria de Titãs 2</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191120161500 -0400" stop="20191120190200 -0400" channel="TNT">
+    <title lang="pt">Superman: O Retorno</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191120190200 -0400" stop="20191120214500 -0400" channel="TNT">
+    <title lang="pt">Batman Vs Superman: A Origem da Justiça</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191120214500 -0400" stop="20191120233200 -0400" channel="TNT">
+    <title lang="pt">John Wick</title>
+    <sub-title lang="pt">De Volta ao Jogo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191120233200 -0400" stop="20191121011200 -0400" channel="TNT">
+    <title lang="pt">Plano de Fuga</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191121011200 -0400" stop="20191121032100 -0400" channel="TNT">
+    <title lang="pt">Aliança do Crime</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191121032100 -0400" stop="20191121051700 -0400" channel="TNT">
+    <title lang="pt">Este é o Meu Garoto</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191121051700 -0400" stop="20191121060000 -0400" channel="TNT">
+    <title lang="pt">Hollywood One on One</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191121060000 -0400" stop="20191121073200 -0400" channel="TNT">
+    <title lang="pt">A Verdade Nua e Crua</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191121073200 -0400" stop="20191121100100 -0400" channel="TNT">
+    <title lang="pt">Mar em Fúria</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191121100100 -0400" stop="20191121122000 -0400" channel="TNT">
+    <title lang="pt">Corpo Fechado</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191121122000 -0400" stop="20191121142600 -0400" channel="TNT">
+    <title lang="pt">Duelo de Titãs</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191121142600 -0400" stop="20191121163000 -0400" channel="TNT">
+    <title lang="pt">Os Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191121163000 -0400" stop="20191121191300 -0400" channel="TNT">
+    <title lang="pt">Batman Vs Superman: A Origem da Justiça</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191121191300 -0400" stop="20191121204700 -0400" channel="TNT">
+    <title lang="pt">Cegonhas</title>
+    <sub-title lang="pt">A História Que Não Te Contaram</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191121204700 -0400" stop="20191121223000 -0400" channel="TNT">
+    <title lang="pt">Fúria de Titãs 2</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191121223000 -0400" stop="20191122002600 -0400" channel="TNT">
+    <title lang="pt">Elysium</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191122002600 -0400" stop="20191122010300 -0400" channel="TNT">
+    <title lang="pt">Liga Espetacular</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191122010300 -0400" stop="20191122035600 -0400" channel="TNT">
+    <title lang="pt">Batman: O Cavaleiro das Trevas Ressurge</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191122035600 -0400" stop="20191122054400 -0400" channel="TNT">
+    <title lang="pt">Contra o Tempo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191122223000 -0400" stop="20191123002300 -0400" channel="TNT">
+    <title lang="pt">Convidado Vitalício</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191123002300 -0400" stop="20191123021500 -0400" channel="TNT">
+    <title lang="pt">Contra o Tempo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191123021500 -0400" stop="20191123043500 -0400" channel="TNT">
+    <title lang="pt">Constantine</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191123043500 -0400" stop="20191123060000 -0400" channel="TNT">
+    <title lang="pt">Hollywood One on One</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191123060000 -0400" stop="20191123063500 -0400" channel="TNT">
+    <title lang="pt">Hollywood One on One</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191123063500 -0400" stop="20191123075900 -0400" channel="TNT">
+    <title lang="pt">O Galinho Chicken Little</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191123075900 -0400" stop="20191123100000 -0400" channel="TNT">
+    <title lang="pt">Ratatouille</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191123100000 -0400" stop="20191123103700 -0400" channel="TNT">
+    <title lang="pt">De Olho Na Liga</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191123103700 -0400" stop="20191123123600 -0400" channel="TNT">
+    <title lang="pt">As Memórias de Marnie</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191123123600 -0400" stop="20191123141700 -0400" channel="TNT">
+    <title lang="pt">Up: Altas Aventuras</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191123141700 -0400" stop="20191123155200 -0400" channel="TNT">
+    <title lang="pt">O Bom Dinossauro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191123155200 -0400" stop="20191123173200 -0400" channel="TNT">
+    <title lang="pt">Wall-E</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191123173200 -0400" stop="20191123194000 -0400" channel="TNT">
+    <title lang="pt">Carros</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191123194000 -0400" stop="20191123213200 -0400" channel="TNT">
+    <title lang="pt">Zootopia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191123213200 -0400" stop="20191123234600 -0400" channel="TNT">
+    <title lang="pt">Gigantes de Aço</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191123234600 -0400" stop="20191124020100 -0400" channel="TNT">
+    <title lang="pt">Constantine</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191124020100 -0400" stop="20191124032200 -0400" channel="TNT">
+    <title lang="pt">Quando as Luzes se Apagam</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191124032200 -0400" stop="20191124050900 -0400" channel="TNT">
+    <title lang="pt">Convidado Vitalício</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191124050900 -0400" stop="20191124060000 -0400" channel="TNT">
+    <title lang="pt">Hollywood One on One</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191124060000 -0400" stop="20191124063500 -0400" channel="TNT">
+    <title lang="pt">Hollywood One on One</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191124063500 -0400" stop="20191124083500 -0400" channel="TNT">
+    <title lang="pt">Os Homens são de Marte... e é pra lá que eu Vou</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191124083500 -0400" stop="20191124103400 -0400" channel="TNT">
+    <title lang="pt">As Memórias de Marnie</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191124103400 -0400" stop="20191124122100 -0400" channel="TNT">
+    <title lang="pt">Wall-E</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191124122100 -0400" stop="20191124141900 -0400" channel="TNT">
+    <title lang="pt">Zootopia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191124141900 -0400" stop="20191124163700 -0400" channel="TNT">
+    <title lang="pt">Carros</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191124163700 -0400" stop="20191124190500 -0400" channel="TNT">
+    <title lang="pt">Gigantes de Aço</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191124190500 -0400" stop="20191124220000 -0400" channel="TNT">
+    <title lang="pt">Capitão América: Guerra Civil</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191124220000 -0400" stop="20191125010000 -0400" channel="TNT">
+    <title lang="pt">American Music Awards 2019</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191125010000 -0400" stop="20191125020000 -0400" channel="TNT">
+    <title lang="pt">Tá Pago Com Leandro Hassum</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191125020000 -0400" stop="20191125042400 -0400" channel="TNT">
+    <title lang="pt">Esquadrão Suicida</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191125042400 -0400" stop="20191125054800 -0400" channel="TNT">
+    <title lang="pt">Quando as Luzes se Apagam</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191125054800 -0400" stop="20191125060000 -0400" channel="TNT">
+    <title lang="pt">Hollywood One on One</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191125060000 -0400" stop="20191125070100 -0400" channel="TNT">
+    <title lang="pt">Hollywood One on One</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191125070100 -0400" stop="20191125090900 -0400" channel="TNT">
+    <title lang="pt">Ricky Bobby</title>
+    <sub-title lang="pt">A Toda Velocidade</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191125090900 -0400" stop="20191125120900 -0400" channel="TNT">
+    <title lang="pt">American Music Awards 2019</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191125120900 -0400" stop="20191125134300 -0400" channel="TNT">
+    <title lang="pt">Aviões</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191125134300 -0400" stop="20191125155000 -0400" channel="TNT">
+    <title lang="pt">Miss Simpatia 2: Armada e Poderosa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191125155000 -0400" stop="20191125155200 -0400" channel="TNT">
+    <title lang="pt">Melhores Momentos American Music Awards</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191125155200 -0400" stop="20191125183100 -0400" channel="TNT">
+    <title lang="pt">Capitão América: Guerra Civil</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191125183100 -0400" stop="20191125201500 -0400" channel="TNT">
+    <title lang="pt">Fúria de Titãs 2</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191125201500 -0400" stop="20191125201700 -0400" channel="TNT">
+    <title lang="pt">Melhores Momentos American Music Awards</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191125201700 -0400" stop="20191125223000 -0400" channel="TNT">
+    <title lang="pt">Esquadrão Suicida</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191125223000 -0400" stop="20191126001700 -0400" channel="TNT">
+    <title lang="pt">John Wick</title>
+    <sub-title lang="pt">De Volta ao Jogo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191120003000 -0400" stop="20191120023000 -0400" channel="Megapix">
+    <title lang="pt">Velozes E Furiosos 4</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191120023000 -0400" stop="20191120042000 -0400" channel="Megapix">
+    <title lang="pt">Pânico No Lago 3</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191120042000 -0400" stop="20191120062000 -0400" channel="Megapix">
+    <title lang="pt">Perseguição Na Floresta</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191120062000 -0400" stop="20191120083500 -0400" channel="Megapix">
+    <title lang="pt">A Série Divergente: Convergente</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191120083500 -0400" stop="20191120103500 -0400" channel="Megapix">
+    <title lang="pt">As Vantagens De Ser Invisível</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191120103500 -0400" stop="20191120123000 -0400" channel="Megapix">
+    <title lang="pt">Par Perfeito</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191120123000 -0400" stop="20191120144000 -0400" channel="Megapix">
+    <title lang="pt">Intocáveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191120144000 -0400" stop="20191120163000 -0400" channel="Megapix">
+    <title lang="pt">Madagascar 3: Os Procurados</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191120163000 -0400" stop="20191120181000 -0400" channel="Megapix">
+    <title lang="pt">Falcão</title>
+    <sub-title lang="pt">O Campeão Dos Campeões</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191120181000 -0400" stop="20191120200500 -0400" channel="Megapix">
+    <title lang="pt">Assassino A Preço Fixo 2: A Ressurreição</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191120200500 -0400" stop="20191120213000 -0400" channel="Megapix">
+    <title lang="pt">Reação Em Cadeia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191120213000 -0400" stop="20191120230200 -0400" channel="Megapix">
+    <title lang="pt">Powerpix: Lutador de Rua</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191120230200 -0400" stop="20191121005500 -0400" channel="Megapix">
+    <title lang="pt">Quebrando Regras 2</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191121005500 -0400" stop="20191121025000 -0400" channel="Megapix">
+    <title lang="pt">Com As Próprias Mãos 2: O Troco</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191121025000 -0400" stop="20191121044500 -0400" channel="Megapix">
+    <title lang="pt">Resident Evil 4: Recomeço</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191121044500 -0400" stop="20191121072500 -0400" channel="Megapix">
+    <title lang="pt">Falcão Negro Em Perigo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191121072500 -0400" stop="20191121092000 -0400" channel="Megapix">
+    <title lang="pt">Recém-Casados</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191121092000 -0400" stop="20191121112500 -0400" channel="Megapix">
+    <title lang="pt">Velozes E Furiosos 4</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191121112500 -0400" stop="20191121131500 -0400" channel="Megapix">
+    <title lang="pt">Roboshark</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191121131500 -0400" stop="20191121152500 -0400" channel="Megapix">
+    <title lang="pt">Footloose (2011)</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191121152500 -0400" stop="20191121181500 -0400" channel="Megapix">
+    <title lang="pt">Austrália</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191121181500 -0400" stop="20191121201500 -0400" channel="Megapix">
+    <title lang="pt">Um Amor Para Recordar</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191121201500 -0400" stop="20191121223000 -0400" channel="Megapix">
+    <title lang="pt">Esposa De Mentirinha</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191121223000 -0400" stop="20191122004000 -0400" channel="Megapix">
+    <title lang="pt">Branca De Neve E O Caçador</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191122004000 -0400" stop="20191122025500 -0400" channel="Megapix">
+    <title lang="pt">O Justiceiro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191122025500 -0400" stop="20191122043000 -0400" channel="Megapix">
+    <title lang="pt">Harbinger Down</title>
+    <sub-title lang="pt">Terror No Gelo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191122043000 -0400" stop="20191122061000 -0400" channel="Megapix">
+    <title lang="pt">Acerto De Contas (2013)</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191122061000 -0400" stop="20191122075500 -0400" channel="Megapix">
+    <title lang="pt">Deixados Para Trás</title>
+    <sub-title lang="pt">A Nova Geração</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191122075500 -0400" stop="20191122100000 -0400" channel="Megapix">
+    <title lang="pt">O Impossível</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191122100000 -0400" stop="20191122114500 -0400" channel="Megapix">
+    <title lang="pt">Atentado Em Paris</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191122114500 -0400" stop="20191122140500 -0400" channel="Megapix">
+    <title lang="pt">Triplo X</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191122140500 -0400" stop="20191122155500 -0400" channel="Megapix">
+    <title lang="pt">Tubarão 4</title>
+    <sub-title lang="pt">A Vingança</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191122155500 -0400" stop="20191122180000 -0400" channel="Megapix">
+    <title lang="pt">Sem Saída (2011)</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191122180000 -0400" stop="20191122195000 -0400" channel="Megapix">
+    <title lang="pt">A Origem Do Dragão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191122195000 -0400" stop="20191122223000 -0400" channel="Megapix">
+    <title lang="pt">The Avengers</title>
+    <sub-title lang="pt">Os Vingadores</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191122223000 -0400" stop="20191123003000 -0400" channel="Megapix">
+    <title lang="pt">Sessão Megapix: Deadpool</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191123003000 -0400" stop="20191123021000 -0400" channel="Megapix">
+    <title lang="pt">Demônio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191123021000 -0400" stop="20191123040000 -0400" channel="Megapix">
+    <title lang="pt">Pânico no Lago: Projeto Anaconda</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191123040000 -0400" stop="20191123055000 -0400" channel="Megapix">
+    <title lang="pt">Todos Os Segredos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191123055000 -0400" stop="20191123074000 -0400" channel="Megapix">
+    <title lang="pt">Duas Vezes Cupido</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191123074000 -0400" stop="20191123095000 -0400" channel="Megapix">
+    <title lang="pt">Heróis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191123095000 -0400" stop="20191123115500 -0400" channel="Megapix">
+    <title lang="pt">O Círculo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191123115500 -0400" stop="20191123133500 -0400" channel="Megapix">
+    <title lang="pt">Megakids.: Gato de Botas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191123133500 -0400" stop="20191123152500 -0400" channel="Megapix">
+    <title lang="pt">Comando Para Matar</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191123152500 -0400" stop="20191123174500 -0400" channel="Megapix">
+    <title lang="pt">Sessão Megateen: Homem-aranha</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191123174500 -0400" stop="20191123194000 -0400" channel="Megapix">
+    <title lang="pt">Os Mercenários</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191123194000 -0400" stop="20191123220000 -0400" channel="Megapix">
+    <title lang="pt">O Dia Depois de Amanhã</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191123220000 -0400" stop="20191123235000 -0400" channel="Megapix">
+    <title lang="pt">O Último Desafio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191123235000 -0400" stop="20191124020000 -0400" channel="Megapix">
+    <title lang="pt">Sessão Megapix: Deadpool</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191124020000 -0400" stop="20191124034500 -0400" channel="Megapix">
+    <title lang="pt">Invasores (2015)</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191124034500 -0400" stop="20191124053000 -0400" channel="Megapix">
+    <title lang="pt">O Casamento Do Ano</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191124053000 -0400" stop="20191124071500 -0400" channel="Megapix">
+    <title lang="pt">Cão Que Ladra Não Morde 2</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191124071500 -0400" stop="20191124090000 -0400" channel="Megapix">
+    <title lang="pt">Guiados Pelo Coração</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191124090000 -0400" stop="20191124110500 -0400" channel="Megapix">
+    <title lang="pt">Sem Saída (2011)</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191124110500 -0400" stop="20191124131000 -0400" channel="Megapix">
+    <title lang="pt">Sessão Retrô.: A Lagoa Azul</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191124131000 -0400" stop="20191124152000 -0400" channel="Megapix">
+    <title lang="pt">Ela Dança, Eu Danço 5</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191124152000 -0400" stop="20191124171000 -0400" channel="Megapix">
+    <title lang="pt">Fora de Alcance (2014)</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191124171000 -0400" stop="20191124195000 -0400" channel="Megapix">
+    <title lang="pt">The Avengers</title>
+    <sub-title lang="pt">Os Vingadores</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191124195000 -0400" stop="20191124220000 -0400" channel="Megapix">
+    <title lang="pt">Sessão Megapix: Deadpool</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191124220000 -0400" stop="20191125000000 -0400" channel="Megapix">
+    <title lang="pt">Eu, Robô</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191125000000 -0400" stop="20191125015500 -0400" channel="Megapix">
+    <title lang="pt">Anaconda 2: A Caçada Pela Orquídea Sangrenta</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191125015500 -0400" stop="20191125034500 -0400" channel="Megapix">
+    <title lang="pt">Operação Resgate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191125034500 -0400" stop="20191125054500 -0400" channel="Megapix">
+    <title lang="pt">Tentáculos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191125054500 -0400" stop="20191125075000 -0400" channel="Megapix">
+    <title lang="pt">Quero Ser Grande</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191125075000 -0400" stop="20191125100000 -0400" channel="Megapix">
+    <title lang="pt">Um Louco Apaixonado</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191125100000 -0400" stop="20191125121500 -0400" channel="Megapix">
+    <title lang="pt">A Última Canção</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191125121500 -0400" stop="20191125142500 -0400" channel="Megapix">
+    <title lang="pt">Protegendo O Inimigo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191125142500 -0400" stop="20191125163000 -0400" channel="Megapix">
+    <title lang="pt">+ Velozes + Furiosos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191125163000 -0400" stop="20191125183000 -0400" channel="Megapix">
+    <title lang="pt">Uma Ladra Sem Limites</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191125183000 -0400" stop="20191125202000 -0400" channel="Megapix">
+    <title lang="pt">Tudo Por Um Pop Star</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191125202000 -0400" stop="20191125223000 -0400" channel="Megapix">
+    <title lang="pt">Mente Criminosa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191125223000 -0400" stop="20191126001000 -0400" channel="Megapix">
+    <title lang="pt">Um Dia Para Viver</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+</tv>
